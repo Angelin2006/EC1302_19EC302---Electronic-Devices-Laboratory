@@ -38,15 +38,22 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 
 
+<img width="893" height="382" alt="image" src="https://github.com/user-attachments/assets/2944838b-3b80-43c7-a7ee-75a125b04155" />
+
+
 ## AC INPUT WAVEFORM:
 
+<img width="889" height="452" alt="image" src="https://github.com/user-attachments/assets/61e34b77-2c24-470e-b303-522c0612ed02" />
 
 ## OUTPUT GRAPH:
+
 ## SIGNAL OUTPUT(WITHOUT FILTER)
+
+<img width="898" height="472" alt="image" src="https://github.com/user-attachments/assets/20f1f9fe-2577-4d78-8dcb-a2c6153bc5ca" />
 
 ## SIGNAL OUTPUT(WITH FILTER)
 
-
+<img width="895" height="455" alt="image" src="https://github.com/user-attachments/assets/e91a7804-70c0-44a7-940f-f3f6e7249a76" />
 
 ## RESULT:
 Thus the output waveform at each stage was observed and analyzed. A stable regulated DC output was obtained at the load of RPS using LT-spice is simulated and verified. 
