@@ -26,9 +26,12 @@ LT-Spice
 ## CIRCUIT DIAGRAM:
 
 
+<img width="964" height="845" alt="image" src="https://github.com/user-attachments/assets/c7ab0994-0505-41f3-9c6d-9e59041ad885" />
+
 
 ## OUTPUT GRAPH:
 
+<img width="948" height="419" alt="image" src="https://github.com/user-attachments/assets/f107dfab-10d5-4714-8da9-110bab0150bf" />
 
 ## RESULT:
 Thus the frequency response of common base configuration circuit using LT-spice is simulated and verified. 
