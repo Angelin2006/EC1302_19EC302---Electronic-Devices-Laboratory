@@ -7,22 +7,28 @@
  
 ## APPARATUS REQUIRED
 
-<img width="995" height="307" alt="image" src="https://github.com/user-attachments/assets/96086095-1c79-4eb9-8497-84ac4555b927" />
-
-
+![WhatsApp Image 2025-11-30 at 21 39 01_4636f143](https://github.com/user-attachments/assets/93bf8f14-c1cb-4eb2-b8cc-7b1fe402c6ba)
 
 ## THEORY
 ## PN JUNCTION DIODE
 A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
 
 ## CIRCUIT DIAGRAM: 
+
 ## FORWARD BIAS:
+
+![WhatsApp Image 2025-11-30 at 21 39 01_b917ca60](https://github.com/user-attachments/assets/d8f38caf-cd1e-4e2b-b605-a8f540cdb6a1)
 
 ## REVERSE BIAS:
 
+![WhatsApp Image 2025-11-30 at 21 39 02_c5356a1c](https://github.com/user-attachments/assets/a88a0233-d95d-4386-9505-fd520b79e47f)
+
 ## MODEL GRAPH:
 
+![WhatsApp Image 2025-11-30 at 21 39 02_129aebd7](https://github.com/user-attachments/assets/5ed07331-badc-44b7-b157-e4609a13195e)
+
 ## PROCEDURE:  
+
 ## FORWARD BIAS 
 1. The connections are made as per the circuit diagram.
 2. The power supply Current Overload is kept at maximum and then switched on.
@@ -49,11 +55,17 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-30 at 21 39 03_bece35b5](https://github.com/user-attachments/assets/b06f4d78-3740-4747-8506-6a2d557210e5)
+
 ## CALCULATIONS:
+
+![WhatsApp Image 2025-11-30 at 21 39 04_bcc94b1f](https://github.com/user-attachments/assets/8736c7bb-d18c-4614-baa1-c53e9eaad054)
 
 ## GRAPH:
 
+![WhatsApp Image 2025-11-30 at 21 39 03_4982bf0e](https://github.com/user-attachments/assets/f6f7c4b8-6b96-4cf9-bc42-b5ff252eb320)
+
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
- 2. Reverse resistance   of PN diode   = --------------------
- 3. Cut in Voltage of PN diode         = -------------------
+ 1. Forward resistance of PN diode     = 20 0hm
+ 2. Reverse resistance   of PN diode   = 0.5 * 10 ^ 6 ohm
+ 3. Cut in Voltage of PN diode         = 0.55 V
